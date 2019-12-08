@@ -1,0 +1,7 @@
+<nav>
+  <ul>
+    <app-nav-item *ngFor="let nav of navData" [title]="nav.url" [url]="nav.url">
+    </app-nav-item>
+  </ul>
+  <app-burger></app-burger>
+</nav>

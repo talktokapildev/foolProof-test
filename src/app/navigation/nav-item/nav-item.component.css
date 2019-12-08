@@ -1,0 +1,13 @@
+li {
+  cursor: pointer;
+  padding: 20px 0;
+  text-transform: uppercase;
+  min-width: 100px;
+  text-align: center;
+  margin-right: 6px;
+  transition: background-color 0.25s;
+}
+
+li:hover {
+  background-color: #0aad8d;
+}

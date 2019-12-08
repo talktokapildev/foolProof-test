@@ -1,0 +1,9 @@
+ul {
+  color: white;
+  display: inline-flex;
+  list-style: none;
+  margin: 0px;
+}
+nav {
+  margin-left: auto;
+}

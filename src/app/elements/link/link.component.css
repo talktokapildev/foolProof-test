@@ -1,0 +1,10 @@
+a {
+  text-decoration: none;
+  color: White;
+  display: block;
+  padding: 19px 0px;
+}
+a:hover {
+  color: White;
+  text-transform: inherit;
+}
