@@ -1,0 +1,15 @@
+div {
+  display: block;
+  position: relative;
+  z-index: 40;
+  color: inherit;
+  margin: 0;
+  font-size: 65px;
+  margin-bottom: 40px;
+  font-weight: 600;
+}
+
+div.h3 {
+  font-size: 25px;
+  margin-bottom: 15px;
+}

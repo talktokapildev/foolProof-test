@@ -1,0 +1,12 @@
+div {
+  display: block;
+  color: inherit;
+  position: absolute;
+  padding-top: 200px;
+  width: 100%;
+  max-width: 550px;
+}
+div.card {
+  position: relative;
+  padding: 0px;
+}

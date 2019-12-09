@@ -1,0 +1,12 @@
+img {
+  /* display: inline-block;
+  height: 100vh; */
+  width: 100%;
+  height: auto;
+}
+.card {
+  height: 100px;
+  width: auto;
+  display: block;
+  margin: 0 auto;
+}
