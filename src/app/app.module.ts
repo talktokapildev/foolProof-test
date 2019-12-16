@@ -19,6 +19,7 @@ import { HeroComponent } from "./hero/hero.component";
 import { ImageComponent } from "./elements/image/image.component";
 import { BeerCardComponent } from './beer-card/beer-card.component';
 import { LikeButtonComponent } from './elements/like-button/like-button.component';
+import { GridItemComponent } from './layout/grid-item/grid-item.component';
 
 @NgModule({
   declarations: [
@@ -38,7 +39,8 @@ import { LikeButtonComponent } from './elements/like-button/like-button.componen
     HeroComponent,
     ImageComponent,
     BeerCardComponent,
-    LikeButtonComponent
+    LikeButtonComponent,
+    GridItemComponent
   ],
   imports: [BrowserModule, HttpClientModule],
   providers: [],

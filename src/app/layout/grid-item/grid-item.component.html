@@ -1,0 +1,9 @@
+<div class="grid">
+  <ng-container *ngFor="let item of data">
+    <app-beer-card
+      [image]="item.image_url"
+      [title]="item.name"
+      [text]="item.brewers_tips"
+    ></app-beer-card>
+  </ng-container>
+</div>

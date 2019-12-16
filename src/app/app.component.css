@@ -3,11 +3,7 @@ main {
   position: relative;
   width: 100%;
 }
-.grid {
-  display: flex;
-  flex-wrap: wrap;
-  width: 100%;
-}
-app-beer-card {
+
+/* app-beer-card {
   display: contents;
-}
+} */

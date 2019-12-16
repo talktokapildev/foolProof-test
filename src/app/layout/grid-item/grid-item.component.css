@@ -1,0 +1,9 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+app-beer-card {
+  display: contents;
+}

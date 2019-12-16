@@ -1,8 +1,9 @@
 div.beercard {
-  display: block;
+  display: flex;
   margin-bottom: 30px;
   margin-left: 20px;
   width: 31%;
+  flex-direction: column;
 }
 div.imagecontainer {
   padding: 40px 20px;
